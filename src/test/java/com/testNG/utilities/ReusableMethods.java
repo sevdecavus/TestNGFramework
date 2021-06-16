@@ -9,4 +9,5 @@ public class ReusableMethods {
             e.printStackTrace();
         }
     }
+
 }
